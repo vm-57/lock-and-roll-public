@@ -1,3 +1,6 @@
 node_modules
-package.json
 .env
+old_app.js
+DigiCertGlobalRootCA.crt.pem
+package-lock.json
+package.json
